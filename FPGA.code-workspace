@@ -6,6 +6,12 @@
     }
   ],
   "settings": {
+    "workbench.editorAssociations": [
+      {
+        "viewType": "vaporview.waveformViewer",
+        "filenamePattern": "*.vcd"
+      }
+    ],
     "editor.fontSize": 18,
     "editor.minimap.enabled": false,
     "editor.wordWrap": "off",
